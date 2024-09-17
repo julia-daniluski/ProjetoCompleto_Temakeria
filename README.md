@@ -18,4 +18,10 @@ Após testar as cores, fiz o segundo frame voltado a tipografia, testando as fon
 <br>
 
 ![Captura de tela 2024-09-17 120525](https://github.com/user-attachments/assets/640c3e18-dcca-4436-8d64-6924489c391d)
+<br>
+
+Foi criado um layer para criar componentes únicos para o site.
+
+![Captura de tela 2024-09-17 154907](https://github.com/user-attachments/assets/284becae-1653-42ba-9ff1-ff4c2ada4ac7)
+
 <hr>
