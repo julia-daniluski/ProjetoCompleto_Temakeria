@@ -25,3 +25,18 @@ Foi criado um layer para criar componentes únicos para o site.
 ![Captura de tela 2024-09-17 154907](https://github.com/user-attachments/assets/284becae-1653-42ba-9ff1-ff4c2ada4ac7)
 
 <hr>
+
+Após abrir uma segunda page, começamos a montar o designe da página. Como uma versão melhorada do primeiro, ainda sem css ou html.
+
+![Captura de tela 2024-09-17 161745](https://github.com/user-attachments/assets/6c5e9e16-89c7-455b-899d-ca19c254f44a)
+
+![Captura de tela 2024-09-17 161754](https://github.com/user-attachments/assets/d3eb5c79-ee4b-464d-8431-01179061b2fc)
+
+![Captura de tela 2024-09-17 161805](https://github.com/user-attachments/assets/e6b953b4-a380-40ed-a0d0-568595fdf8fc)
+
+<br>
+(está é uma pequena ilustração de como o site ficará)
+
+
+
+
